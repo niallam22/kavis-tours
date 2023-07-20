@@ -2440,7 +2440,6 @@ input, select, textarea {
 
 		#banner header > p {
 			margin-bottom: 0;
-			padding: 0 10%;
 		}
 
 /* Content */
@@ -2452,6 +2451,10 @@ input, select, textarea {
 
 	#content > section {
 		margin-bottom: 0;
+	}
+
+	 p {
+		padding: 0 10%;
 	}
 
 /* Sidebar */
