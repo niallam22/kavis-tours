@@ -4,7 +4,6 @@ A portfolio website for an actor, writer and coach.
 
 ### Link to project: https://niallam22.github.io/kavis-tours.github.io/
 ![Kavi's Tours website](kavis-tours.gif)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 ## About this project
 
