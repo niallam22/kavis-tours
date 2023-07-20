@@ -180,6 +180,7 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
+		padding: 0 10%;
 	}
 
 	br.clear {
@@ -2453,9 +2454,7 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-	 p {
-		padding: 0 10%;
-	}
+
 
 /* Sidebar */
 
